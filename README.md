@@ -16,3 +16,7 @@ Hello, thank you for visiting my personal web page.
 * [Twitter](https://twitter.com/hkusulja)
 * [LinkedIn](https://www.linkedin.com/in/hrvojekusulja/)
 * [GitHub](https://github.com/hkusulja)
+
+## Aditional info
+* [My personal public notes](https://github.com/hkusulja/Notes/blob/master/README.md)
+
