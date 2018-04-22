@@ -4,12 +4,14 @@
 Hello, thank you for visiting my personal web page.
 
 # About me
+
 * First name: Hrvoje
 * Last name: Kusulja
 * City: Zagreb
 * Country: Croatia, Europe
 
 ## My contacts and profiles
+
 * E-Mail: hkusulja AT kusulja.com
 * Phone number: +385 91 4846 008
 * [Facebook](https://www.facebook.com/hkusulja)
@@ -18,5 +20,6 @@ Hello, thank you for visiting my personal web page.
 * [GitHub](https://github.com/hkusulja)
 
 ## Aditional info
-* [My personal public notes](https://github.com/hkusulja/Notes/blob/master/README.md)
 
+* [My personal public notes](https://github.com/hkusulja/Notes/blob/master/README.md)
+* [DJ_Kukky](http://dj-kukky.kusulja.com)
